@@ -57,5 +57,5 @@ Computer Science student passionate about building intelligent systems through M
 
 ## 📫 Connect with Me
 - LinkedIn: [Your Profile]
-- Email: raouflounis26@example.com
+- Email: raouflounis26@gmail.com
 - Portfolio: [Your Portfolio Website]
