@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Raouf - Data Scientist/Machine Learning Student
+#  Hi, I'm Raouf - Data Scientist/Machine Learning Student
 
-## 🚀 About Me
-Computer Science student passionate about building intelligent systems through Machine Learning and Data Science. I specialize in creating end-to-end solutions—from data preprocessing and model development to web deployment. Currently exploring deep learning and model optimization techniques while building practical projects that solve real-world problems.
+##  About Me
+Computer Science student  foucus on data science and AI. Skilled in Python programming, data analysis, and building predictive models, in addition to web development using React and ExpressJS and mobile development using Flutter. Eager to apply my skills in real-world projects and contribute to innovative solutions.
 
-**🎯 Current Focus:** Machine Learning pipelines, Feature Engineering, Model Deployment
+**current learning focus:** Machine Learning techniques, time series analysis, advanced database management, and Full-Stack Web Development.
+**Education:** 3rd year Computer Science student at the national school of artificial intelligence (EnSIA) , Algeria.
+
 
 ##  Technical Skills
 
@@ -14,12 +16,15 @@ Computer Science student passionate about building intelligent systems through M
 
 **Web Development:**
 - **Frontend:** React, JavaScript, HTML5, CSS3
-- **Backend:** FastAPI, REST APIs
+- **Backend:** ExpressJS, REST APIs
 - **Tools:** Git, Jupyter, VS Code
+
+**Mobile Development:**
+- **Frameworks:** Flutter
 
 **Programming Languages:**
 - **Proficient:** Python, JavaScript
-- **Familiar:** C++, SQL
+- **Familiar:** C++, SQL, Dart
 
 ##  Featured Projects
 
@@ -28,6 +33,7 @@ Computer Science student passionate about building intelligent systems through M
     A complete preprocessing and modeling pipeline using scikit-learn for predicting passenger survival on the Titanic dataset.
     Includes custom feature engineering (titles, family size, cabin info) and automated preprocessing pipelines.
     Tech Stack: Python, Pandas, Scikit-learn, NumPy, Matplotlib
+    accuracy: 78%
     link: [Titanic survival prediction](https://github.com/raouf529/titanic_dataset)
 ### Housing Price Prediction (Regression Analysis)
 
@@ -48,14 +54,33 @@ Computer Science student passionate about building intelligent systems through M
 - **Adult Income Classification** - Demographic analysis model link: [Adult Income Classification](https://github.com/raouf529/adult_income_class_prediction)
 
 ## Web Development Projects
+
 - **Weather Website** - Real-time API integration link: [Weather Website](https://github.com/raouf529/weather_website)
 - **Meme Generator** - Interactive React application link: [Meme Generator](https://github.com/raouf529/meme_generator)
 - **Recipe Finder** - Recipe search application link: [Recipe Finder](https://github.com/raouf529/recipe-finder)
 
-## 📈 GitHub Stats
+## Team Collaboration
+## Team Collaboration Projects
+
+###  Farm Management System (Team of 5)
+**Role:** Backend Developer  
+**Tech Stack:** Node.js, ExpressJS, Prisma, PostgreSQL  
+**My Contributions:**
+- Built authentication system with JWT tokens and role-based access
+- Implemented task assignment and management APIs
+- Developed dashboard data aggregation endpoints
+
+ **Fork with my contributions:** [FarmHub Fork](https://github.com/raouf529/FarmHub)  
+ **Original Repository:** [Team Repository](https://github.com/AfafKhadraoui/FarmHub)
+
+
+### working on more projects, stay tuned!
+
+
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouf529&show_icons=true)
 
-## 📫 Connect with Me
+## Connect with Me
 - LinkedIn: [Your Profile]
 - Email: raouflounis26@gmail.com
 - Portfolio: [Your Portfolio Website]
