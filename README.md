@@ -16,7 +16,7 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
 
 **Web Development:**
 - **Frontend:** React, JavaScript, HTML5, CSS3
-- **Backend:** ExpressJS, REST APIs
+- **Backend:** ExpressJS, REST APIs, FastAPI
 - **Tools:** Git, Jupyter, VS Code
 
 **Mobile Development:**
@@ -33,13 +33,14 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
     A complete preprocessing and modeling pipeline using scikit-learn for predicting passenger survival on the Titanic dataset.
     Includes custom feature engineering (titles, family size, cabin info) and automated preprocessing pipelines.
     Tech Stack: Python, Pandas, Scikit-learn, NumPy, Matplotlib
-    accuracy: 78%
+    accuracy: 77.99%
     link: [Titanic survival prediction](https://github.com/raouf529/titanic_dataset)
 ### Housing Price Prediction (Regression Analysis)
 
     Developed a regression model to predict housing prices based on various features.
     Implemented data cleaning, feature selection, and model evaluation techniques.
     Tech Stack: Python, Pandas, Scikit-learn, NumPy
+    rmse: 0.13606(log-transformed target)
     link: [Housing Price Prediction](https://github.com/raouf529/ames)
 
 ### Used Car Price Prediction (Regression Analysis)
@@ -48,6 +49,7 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
     Implemented data cleaning, feature selection, and model evaluation techniques.
     website crafted using HTML, CSS, and JavaScript and FastAPI for backend.
     Tech Stack: Python, Pandas, Scikit-learn, NumPy
+    rmse: 103741.73885664117
     link: [Used Car Price Prediction](https://github.com/raouf529/used_cars)
 ## Additional ML Projects
 - **Bank Subscription Prediction** - Marketing optimization model link: [Bank Subscription Prediction](https://github.com/raouf529/bank_subscription)
@@ -73,14 +75,17 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
  **Fork with my contributions:** [FarmHub Fork](https://github.com/raouf529/FarmHub)  
  **Original Repository:** [Team Repository](https://github.com/AfafKhadraoui/FarmHub)
 
-
+### delala marketplace (Team of 4)
+**Tech Stack:** Flutter, Firebase, laravel
+**My Contributions:**
+- frontend of home and favorites pages using flutter
+- backend of profile screens using laravel
+- notification system using firebase
+** fork link:** [delala marketplace fork]("https://github.com/raouf529/delala_personal")
 ### working on more projects, stay tuned!
 
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouf529&show_icons=true)
-
 ## Connect with Me
-- LinkedIn: [Your Profile]
+- LinkedIn: [Abderraouf Lounis](https://www.linkedin.com/in/abderraouf-lounis-4a45503a9)
 - Email: raouflounis26@gmail.com
-- Portfolio: [Your Portfolio Website]
+- Portfolio: {coming soon}
