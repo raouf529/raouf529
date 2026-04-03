@@ -3,7 +3,7 @@
 ##  About Me
 Computer Science student  foucus on data science and AI. Skilled in Python programming, data analysis, and building predictive models, in addition to web development using React and ExpressJS and mobile development using Flutter. Eager to apply my skills in real-world projects and contribute to innovative solutions.
 
-**current learning focus:** Machine Learning techniques, time series analysis, advanced database management, and Full-Stack Web Development.
+**current learning focus:** Machine Learning techniques, time series analysis, advanced database management.
 **Education:** 3rd year Computer Science student at the national school of artificial intelligence (EnSIA) , Algeria.
 
 
@@ -43,6 +43,20 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
     rmse: 0.13606(log-transformed target)
     link: [Housing Price Prediction](https://github.com/raouf529/ames)
 
+### oil price analysis (Time Series Analysis)
+
+    Developed a time series forecasting model to predict oil prices based on historical data.
+    Implemented data preprocessing, feature engineering, and model evaluation techniques.
+    Tech Stack: Python, Pandas, Scikit-learn, NumPy
+    rmse: 5.79
+    link: [Oil Price Analysis](https://github.com/raouf529/oil_price_analysis)
+
+## Additional ML Projects
+- **Bank Subscription Prediction** - Marketing optimization model link: [Bank Subscription Prediction](https://github.com/raouf529/bank_subscription)
+
+
+## Web Development Projects
+
 ### Used Car Price Prediction (Regression Analysis)
  
     Developed a website and regression model to predict used car prices based on various features.
@@ -51,15 +65,11 @@ Computer Science student  foucus on data science and AI. Skilled in Python progr
     Tech Stack: Python, Pandas, Scikit-learn, NumPy
     rmse: 103741.73885664117
     link: [Used Car Price Prediction](https://github.com/raouf529/used_cars)
-## Additional ML Projects
-- **Bank Subscription Prediction** - Marketing optimization model link: [Bank Subscription Prediction](https://github.com/raouf529/bank_subscription)
-- **Adult Income Classification** - Demographic analysis model link: [Adult Income Classification](https://github.com/raouf529/adult_income_class_prediction)
 
-## Web Development Projects
-
+### Additional Web Development Projects
 - **Weather Website** - Real-time API integration link: [Weather Website](https://github.com/raouf529/weather_website)
-- **Meme Generator** - Interactive React application link: [Meme Generator](https://github.com/raouf529/meme_generator)
-- **Recipe Finder** - Recipe search application link: [Recipe Finder](https://github.com/raouf529/recipe-finder)
+
+
 
 ## Team Collaboration
 ## Team Collaboration Projects
