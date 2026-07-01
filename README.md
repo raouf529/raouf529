@@ -3,7 +3,7 @@
 **Data Science & Machine Learning Student · Backend Developer**  
 3rd year Computer Science @ [EnSIA](https://www.ensia.edu.dz/) — National School of Artificial Intelligence, Algeria
 
-I enjoy building end-to-end ML pipelines, designing clean backend APIs, and turning raw data into useful predictions. Currently deepening my knowledge of time series analysis, advanced database management, and ML model deployment.
+I enjoy building end-to-end ML pipelines, designing clean backend APIs, and turning raw data into useful predictions. Currently deepening my knowledge of deep learning and neural networks.
 
 ---
 
@@ -17,7 +17,7 @@ Regression · Classification · Clustering · Time Series · Feature Engineering
 `Python` `FastAPI` `Node.js` `ExpressJS` `React` `HTML/CSS/JS` `REST APIs`
 
 **Databases**  
-`PostgreSQL` `SQLite` `OracleSQL` `SQLAlchemy` `Prisma`
+`PostgreSQL` `OracleSQL`
 
 **Mobile**  
 `Flutter` `Dart` `Firebase`
@@ -43,7 +43,8 @@ Time-series classification of household appliances using **miniRocket** on elect
 | [Titanic Survival Prediction](https://github.com/raouf529/titanic_dataset) | End-to-end sklearn pipeline with custom feature engineering: titles, family size, cabin info | Acc: 77.99% | Scikit-learn, Pandas |
 | [Housing Price Prediction](https://github.com/raouf529/ames) | Regression on the Ames dataset with data cleaning and feature selection | RMSE: 0.136 (log) | Scikit-learn, Pandas |
 | [Oil Price Forecasting](https://github.com/raouf529/oil_price_analysis) | Time series model on historical oil price data with preprocessing and evaluation | RMSE: 5.79 | R |
-| [Bank Subscription Prediction](https://github.com/raouf529/bank_subscription) | Marketing optimization classifier for term deposit subscriptions | — | Scikit-learn |
+| [credit Card analysis](https://github.com/raouf529/credit_card_analysis) | use clustering to find types of credit card users | silhouette: 0.65 | Scikit-learn |
+
 
 ---
 
@@ -51,9 +52,10 @@ Time-series classification of household appliances using **miniRocket** on elect
 
 | Project | Description | Metric | Stack |
 |---|---|---|---|
-| [Used Car Price Predictor](https://github.com/raouf529/used_cars) | Full-stack app — HTML/CSS/JS frontend + FastAPI backend serving a regression model | RMSE: 103,742 | FastAPI, Scikit-learn |
-| Spam Detection Website | Text classification model (NB/SVM) served via FastAPI with a clean web UI | Acc: 0.98 | FastAPI, Scikit-learn |
+| [Used Car Price Predictor](https://github.com/raouf529/used_cars) | Full-stack app — HTML/CSS/JS frontend + FastAPI backend serving a regression model | RMSE: 0.13 | FastAPI, Scikit-learn |
+| [Spam Detection Website](https://github.com/raouf529/spam-detection) | Text classification model (NB/SVM) served via FastAPI with a clean web UI | Acc: 0.98 | FastAPI, Scikit-learn |
 | [Weather Website](https://github.com/raouf529/weather_website) | Real-time weather app using a public weather API | — | HTML, CSS, JS |
+| [fake news Detection](https://github.com/raouf529/fake-newdetector) | Lexical/stylometric classifier for fake news detection | accuracy: 0.97 | Scikit-learn, XGBoost, react, fastapi |
 
 ---
 
