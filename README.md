@@ -14,7 +14,7 @@ I enjoy building end-to-end ML pipelines, designing clean backend APIs, and turn
 Regression · Classification · Clustering · Time Series · Feature Engineering · Cross-validation
 
 **Web & Backend**  
-`Python` `FastAPI` `Node.js` `ExpressJS` `React` `HTML/CSS/JS` `REST APIs`
+`Python` `FastAPI` `ExpressJS` `React` `HTML/CSS/JS` `REST APIs`
 
 **Databases**  
 `PostgreSQL` `OracleSQL`
@@ -43,7 +43,7 @@ Time-series classification of household appliances using **miniRocket** on elect
 | [Titanic Survival Prediction](https://github.com/raouf529/titanic_dataset) | End-to-end sklearn pipeline with custom feature engineering: titles, family size, cabin info | Acc: 77.99% | Scikit-learn, Pandas |
 | [Housing Price Prediction](https://github.com/raouf529/ames) | Regression on the Ames dataset with data cleaning and feature selection | RMSE: 0.136 (log) | Scikit-learn, Pandas |
 | [Oil Price Forecasting](https://github.com/raouf529/oil_price_analysis) | Time series model on historical oil price data with preprocessing and evaluation | RMSE: 5.79 | R |
-| [credit Card analysis](https://github.com/raouf529/credit_card_analysis) | use clustering to find types of credit card users | silhouette: 0.65 | Scikit-learn |
+| [credit Card analysis](https://github.com/raouf529/credit_card_analysis) | use clustering to find types of credit card users | silhouette: 0.5 | Scikit-learn |
 
 
 ---
